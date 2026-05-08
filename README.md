@@ -58,8 +58,8 @@ Since this is a static frontend project, you don't need a server to run it.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- GitHub: [@hamzaoukhali-boop](https://github.com/hamzaoukhali-boop)
+
 
 ## 📄 License
 
