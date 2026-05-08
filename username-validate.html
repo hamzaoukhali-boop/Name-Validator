@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Username Validator</title>
+    <meta name="description" content="A simple modern DOM manipulation project for username validation.">
+    <link rel="stylesheet" href="username-validate.css">
+</head>
+<body>
+    <main class="validator-card">
+        <header>
+            <h1>Username Validator</h1>
+            <p class="subtitle">Enter a unique and valid username</p>
+        </header>
+
+        <section class="input-section">
+            <div class="input-group">
+                <input type="text" id="name" placeholder="E.g., JohnDoe123" autocomplete="off">
+                <span class="icon">@</span>
+            </div>
+            
+            <p id="message" class="message"></p>
+            <ul id="errors" class="error-list"></ul> 
+        </section>
+    </main>
+
+    <!-- Link to external JavaScript file -->
+    <script src="username-validate.js"></script>
+</body>
+</html>
